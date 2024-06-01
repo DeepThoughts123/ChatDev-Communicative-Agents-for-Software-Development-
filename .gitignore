@@ -2,4 +2,7 @@
 .DS_Store
 .idea
 .vscode
+.env
 
+.venv/
+WareHouse/
